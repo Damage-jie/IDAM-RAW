@@ -1,0 +1,14 @@
+# LOD RAW benchmark. Source: https://github.com/ying-fu/LODDataset
+path: datasets/LOD_RAW
+train: images/train
+val: images/val
+
+names:
+  0: bicycle
+  1: bottle
+  2: bus
+  3: car
+  4: chair
+  5: diningtable
+  6: motorbike
+  7: tvmonitor

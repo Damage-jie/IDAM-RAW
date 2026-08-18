@@ -1,0 +1,21 @@
+{
+  "settings_version": "0.0.6",
+  "datasets_dir": "F:\\dev\\datasets",
+  "weights_dir": "F:\\dev\\Physio-UDA\\weights",
+  "runs_dir": "F:\\dev\\Physio-UDA\\runs",
+  "uuid": "9233946246e9e6d91296fcda9b6a3c098f540d55a9b08c736a420fa33210bd55",
+  "sync": true,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "hub": true,
+  "mlflow": true,
+  "neptune": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": true
+}

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use IDAM-RAW, please cite the associated article."
+title: "IDAM-RAW: a sensor-aware RAW imaging framework for low-light perception via illumination decoupling and adaptive feature modulation"
+type: software
+authors:
+  - family-names: Dai
+    given-names: Minjie
+  - family-names: Lai
+    given-names: Xingyu
+version: 1.0.0
+date-released: 2026-08-18
+repository-code: "https://github.com/Damage-jie/IDAM-RAW"
+license: AGPL-3.0-only
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Dai
+      given-names: Minjie
+    - family-names: Lai
+      given-names: Xingyu
+  title: "IDAM-RAW: a sensor-aware RAW imaging framework for low-light perception via illumination decoupling and adaptive feature modulation"
+  journal: "Journal of Electronic Imaging"
+  year: 2026

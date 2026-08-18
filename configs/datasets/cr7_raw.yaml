@@ -1,0 +1,13 @@
+# CR7-RAW: 1,159 spatially paired scenes (1,019 train, 140 val; no test split).
+path: datasets/CR7_RAW
+train: images/train
+val: images/val
+
+names:
+  0: person
+  1: car
+  2: truck
+  3: electric vehicle
+  4: tricycle
+  5: garbage bin
+  6: roadblock
